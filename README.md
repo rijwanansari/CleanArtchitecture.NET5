@@ -1,7 +1,7 @@
 
  
  # Clean Architecture Solution Template
-![.NET Core] [![Clean.Architecture.Solution.Template NuGet Package](https://img.shields.io/badge/nuget-1.1.1-blue)](https://www.nuget.org/packages/Clean.Architecture.Solution.Template) [![NuGet](https://img.shields.io/nuget/dt/Clean.Architecture.Solution.Template.svg)](https://img.shields.io/twitter/follow/jasontaylordev.svg?style=social&label=Follow)]
+
 
 <br/>
 
